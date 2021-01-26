@@ -1,0 +1,52 @@
+{
+  "entitlements": [
+    {
+      "name": "ESPN_PLUS"
+    },
+    {
+      "name": "DISNEY_PLUS"
+    },
+    {
+      "name": "DISNEY_HULU_ADS"
+    }
+  ],
+  "isSubscriber": true,
+  "experiments": {
+    "44c0e4c9&&2021Q2_signup-copy_web": {
+      "variant_id": "control",
+      "version": 1
+    },
+    "39ab6c45&&Standalone_Test_Jan21": {
+      "variant_id": "control",
+      "version": 1
+    }
+  },
+  "profile": {
+    "id": "4b811f1f-c656-4af4-9728-747ed6f3f165"
+  },
+  "session_id": "6969696969",
+  "session_id": "6969696969",
+  "location": {
+    "country_code": "US",
+    "city_name": "CityName",
+    "connection_type": "cable",
+    "state_name": "state",
+    "dma": 999,
+    "region_name": "mid atlantic",
+    "type": "ZIP_CODE",
+    "asn": 9999,
+    "zip_code": "99999"
+  },
+  "preferredMaturityRating": {
+    "impliedMaturityRating": 9999,
+    "ratingSystem": "MPAAAndTVPG"
+  },
+  "device": {
+    "id": "Test",
+    "platform": "iphone"
+  },
+  "inSupportedLocation": true,
+  "account": {
+    "id": "Test"
+  }
+}
